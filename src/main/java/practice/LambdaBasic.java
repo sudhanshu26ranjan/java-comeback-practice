@@ -1,6 +1,6 @@
 package practice;
 
-public class LamdaBasic {
+public class LambdaBasic {
     Runnable r = new Runnable() {
         @Override
         public void run() {
